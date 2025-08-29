@@ -1,14 +1,17 @@
-Hey there! 👋
-I'm Priyansh Vashistha, a passionate DevOps Practitioner from India.🤖
+# 👋 Hi, I'm Priyansh Vashistha  
 
+🚀 **Multi-Cloud DevOps Engineer**  
 
-I primarily work with cloud-based technologies.☁️⚡
+### 🛠️ Skills & Tools  
+- ☁️ AWS | 🌐 GCP | 🐳 Docker | 🔄 CI/CD | 🧩 Jenkins  
+- 🐙 Git & GitHub | 🐧 Linux | 🔐 IAM  
 
+### 📌 About Me  
+- 🔭 Passionate about Cloud, DevOps, and Automation  
+- 📈 Always exploring new technologies and improving workflows  
+- 🤝 Open to collaboration on DevOps & Cloud projects  
 
+### 📫 How to reach me? 📩  
+- 👨🏻‍💻 Connect with me on https://www.linkedin.com/in/priyanshvashistha
+- 📩 Direct Connect: **priyansh2001vashistha@gmail.com**
 
-
-📫 How to reach me?📩
-
-Connect with me on www.linkedin.com/in/priyanshvashistha 👨🏻‍💻
-
-Email - priyanh3401@gmail.com 📩
